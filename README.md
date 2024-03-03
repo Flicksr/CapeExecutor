@@ -1,3 +1,2 @@
 # CapeExecutor
-Cape executor An edited version of my friends trap executor
-THIS EXECUTOR REQUIRES AN ROBLOX EXECUTOR BECAUSE IT'S NOT A APP EXECUTOR Open source code here
+Cape is a edited version of trap hqs executor aka my friends executor for this one you will need a executor like codex or other because it's lau code and it works as indeed source code can be found here
