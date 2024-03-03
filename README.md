@@ -4,3 +4,5 @@ Cape is a edited version of trap hqs executor aka my friends executor for this o
 V1 doesn't include fps debugger but you can add it while editing the code
 
 I added fps debugger to V2 but can be removed
+
+JOIN TRAP HQ LOL https://discord.com/invite/bjDkajzGSr
